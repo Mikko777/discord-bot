@@ -3,7 +3,7 @@ TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 local Webhook = "https://discordapp.com/api/webhooks/" 
 local DC_nimi = "Mikon discord botti"					
-local DC_kuva = "https://i.imgur.com/L8rJbFQ.png"
+local DC_kuva = "https://imgur.com/a/qY1QphB"
 
 Citizen.CreateThread(function()
 	Citizen.Wait(10000)
